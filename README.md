@@ -1,5 +1,6 @@
 # Calculadora de Juros Simples
 
+Olá colaborador, 
 Este projeto contém um script em Bash para calcular juros simples com base no principal, taxa de juros e tempo.
 
 ## Como usar
